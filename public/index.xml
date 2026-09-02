@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Terminal</title>
+		<link>//localhost:1313/</link>
+		<description>Recent content on Terminal</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 02 Sep 2026 17:23:28 +0545</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Testing Testing 1 2 3. Hello World!!</title>
+				<link>//localhost:1313/posts/my-first-post/</link>
+				<pubDate>Wed, 02 Sep 2026 17:23:28 +0545</pubDate>
+				<guid>//localhost:1313/posts/my-first-post/</guid>
+				<description>&lt;p&gt;This if my first post. So I am testing things out.&#xA;Curriently caffinating my brain using tea. :)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
