@@ -74,11 +74,11 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Caffeinatedbrain"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      subtitle = "Caffeine first, then the rest"
+      owner = "AndrienAD"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
@@ -86,9 +86,9 @@ pagination.pagerSize = 5
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
       olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
+      missingContentMessage = "Caffeine content null..."
       missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
+      minuteReadingTime = "Cups of coffee..."
       words = "words"
 
       [languages.en.params.logo]
